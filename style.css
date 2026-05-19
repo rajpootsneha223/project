@@ -1,0 +1,12 @@
+h1{
+    height: 100px;
+    width: 100px;
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    font-size: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+}
